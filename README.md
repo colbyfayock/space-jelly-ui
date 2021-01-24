@@ -15,7 +15,7 @@ npm install --save space-jelly-ui
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'space-jelly-ui'
+import { MyComponent } from 'space-jelly-ui'
 import 'space-jelly-ui/dist/index.css'
 
 class Example extends Component {
